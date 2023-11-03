@@ -22,11 +22,11 @@ Nesse projeto você criará um site temático cativante e interativo utilizando 
 
 ###### ESPECIALISTA
 
-![author](https://hermes.dio.me/users/author/photos/ce9edb13-2003-4fbb-8192-9b40c9124822.jpg)
+! - [author](https://hermes.dio.me/users/author/photos/ce9edb13-2003-4fbb-8192-9b40c9124822.jpg)
 
 ###### Thiago Mari
 
-Outsystems Expert, OutSystems Expert Mentor[**](https://www.linkedin.com/in/thiago-mari/)
+Outsystems Expert, OutSystems Expert Mentor - [**](https://www.linkedin.com/in/thiago-mari/)
 
 
 
@@ -36,13 +36,13 @@ https://web.dio.me/project/desafio-final-criacao-de-site-tematico-com-outsystems
 
 
 
-[**](https://web.dio.me/track/formacao-outsystems-fundamentals)
+ - [**](https://web.dio.me/track/formacao-outsystems-fundamentals)
 
 ##### Criando um Site Temático com OutSystems
 
 **
 
-[**](https://web.dio.me/lab/desafio-final-criacao-de-site-tematico-com-outsystems/learning/f27ed9fb-9ad0-41de-b242-efb99767b262)[**](https://web.dio.me/lab/desafio-final-criacao-de-site-tematico-com-outsystems/learning/d14929a2-39e3-4675-b843-51b1599ba61d)
+ - [**](https://web.dio.me/lab/desafio-final-criacao-de-site-tematico-com-outsystems/learning/f27ed9fb-9ad0-41de-b242-efb99767b262) - [**](https://web.dio.me/lab/desafio-final-criacao-de-site-tematico-com-outsystems/learning/d14929a2-39e3-4675-b843-51b1599ba61d)
 
 <iframe id="ytc32" frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" title="Criação de Site Temático com OutSystems" width="100%" height="100%" src="https://www.youtube.com/embed/lyJrxA8N1IQ?controls=0&amp;disablekb=1&amp;enablejsapi=1&amp;fs=0&amp;iv_load_policy=3&amp;modestbranding=1&amp;showinfo=0&amp;rel=0&amp;html5=1&amp;cc_load_policy=0&amp;origin=https%3A%2F%2Fweb.dio.me&amp;widgetid=1" data-gtm-yt-inspected-18="true" style="box-sizing: inherit; max-width: none; float: none; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-size: 14px; vertical-align: baseline;"></iframe>
 
@@ -67,7 +67,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Criação de Site Temático com OutSystems](https://web.dio.me/lab/desafio-final-criacao-de-site-tematico-com-outsystems/learning/f27ed9fb-9ad0-41de-b242-efb99767b262)[Entendendo o Desafio](https://web.dio.me/lab/desafio-final-criacao-de-site-tematico-com-outsystems/learning/d14929a2-39e3-4675-b843-51b1599ba61d)
+ - [Criação de Site Temático com OutSystems](https://web.dio.me/lab/desafio-final-criacao-de-site-tematico-com-outsystems/learning/f27ed9fb-9ad0-41de-b242-efb99767b262)
+ - [Entendendo o Desafio](https://web.dio.me/lab/desafio-final-criacao-de-site-tematico-com-outsystems/learning/d14929a2-39e3-4675-b843-51b1599ba61d)
 
 
 
@@ -99,7 +100,7 @@ auto
 
  
 
-[Desafio Final - Criando um site com OutSystems.pptx](https://academiapme-my.sharepoint.com/:p:/g/personal/kawan_dio_me/EUdkaWx8aoVNoXSA6th94AkBdt8ovFZlEJXLKEbTzNkM7A?e=BtASBy) 
+ - [Desafio Final - Criando um site com OutSystems.pptx](https://academiapme-my.sharepoint.com/:p:/g/personal/kawan_dio_me/EUdkaWx8aoVNoXSA6th94AkBdt8ovFZlEJXLKEbTzNkM7A?e=BtASBy) 
 
  
 
